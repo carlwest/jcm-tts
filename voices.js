@@ -93,7 +93,7 @@ const voices = [
     },
     demo: {
       text: US_TEXT,
-      ssml: US_SSML_EXPRESSIVE,
+      ssml: US_SSML,
       ssml_voice: US_VOICE_SSML_MICHAEL,
     },
     description: 'Michael: American English male voice.',
